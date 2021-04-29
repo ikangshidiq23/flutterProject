@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import './component/product_list.dart';
 import './component/dashboard.dart';
+import './component/add_new_item.dart';
 import './models/cart.dart';
 
 void main() => runApp(MyApp());
